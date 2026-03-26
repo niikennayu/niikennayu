@@ -1,7 +1,5 @@
 ## Hello World, I'm Niken 👋
 
-**niikennayu/niikennayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 🎨 About Me:
 🚀 Transforming ideas into elegant and functional digital solutions<br><br>I specialize in building modern web and mobile applications with a strong focus on user experience and clean design. As a developer and designer, I bridge the gap between functionality and aesthetics.<br><br>💼 My core interests:<br>- Full-Stack Development<br>- Web & Mobile Apps<br>- UI/UX Design<br><br>🌱 Always learning, building, and exploring new technologies to create impactful digital products.<br><br>✨ Let’s collaborate and create something amazing!
 
